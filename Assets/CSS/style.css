@@ -62,7 +62,7 @@ h3 {margin-bottom: 10px;
 p,h4, h4:hover, h4:focus, h4:active{
   font-size:1.5em; color: #FFFFFF; 
   font-family:Arial;
-  -webkit-stroke-width: 3.3px; -webkit-stroke-color: #FFFFFF;
+  -webkit-text-stroke-width: 3.3px; -webkit-stroke-color: #FFFFFF;
   -webkit-fill-color: #FFFFFF;
   text-shadow: 1px 0px 20px yellow;
   -webkit-transition: width 0.3s; 
